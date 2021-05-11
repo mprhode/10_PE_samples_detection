@@ -20,5 +20,5 @@ To set up with a virtual environment (tested on Ubuntu 18.04, python3.6):
 to run:
 
   ```
-  jupyter-notebook
+  jupyter-notebook Detection.ipynb
   ```
